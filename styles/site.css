@@ -1,0 +1,9 @@
+html {
+  font-family: sans-serif;
+}
+
+.pages {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+}
